@@ -9,7 +9,7 @@
 Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion for breaking and securing digital systems. I believe in learning by doing, which is why I'm constantly on platforms like **TryHackMe** , **PortSwigger**, **ApiSec University** turning theory into practical skills.
 
 -  I'm currently building an **ESP32-based Wireless Intrusion Detection System (WIDS)**
--  I'm sharpening my skills in **Web Application Security**, **Linux**, and **WiFi Security**
+-  I'm sharpening my skills in **Web Application Security**, **Linux**
 -  My goal is to work professionally as a Penetration Tester
 -  I'm open to collaborating on **cybersecurity** and **Python automation** projects
 
@@ -46,7 +46,7 @@ Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion fo
 ### **TryHackMe**
 Active Member | Currently Improving My Rank
 
-[![TryHackMe Badge](https://tryhackme-badge.s3.amazonaws.com/Shafayet22.png)](https://tryhackme.com/p/Shafayet22)
+[![TryHackMe Badge](https://tryhackme-badge.s3.amazonaws.com/Shafayet22.png)](https://tryhackme.com/badges)
 
 ### **PortSwigger Web Security Academy**
 Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
