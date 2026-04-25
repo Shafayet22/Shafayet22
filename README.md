@@ -59,14 +59,6 @@ Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
 Learning how to secure APIs against modern threats
 
 ---
-Certifications
-TryHackMe Junior Penetration Tester
- Achieved: Junior Penetration Tester Certification
-
-https://img.shields.io/badge/Junior_Penetration_Tester-00FFCC?style=for-the-badge&logo=tryhackme&logoColor=black
-
-Successfully completed the Junior Penetration Tester learning path on TryHackMe
-
 
 ##  Featured Project: ESP32-WIDS
 
