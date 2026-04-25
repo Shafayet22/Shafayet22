@@ -53,7 +53,7 @@ Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
 
 - **Currently Working On:** Server-side vulnerabilities
 - **Next Goal:** Complete the full practitioner track
--  Check my dashboard
+- **Check my dashboard:** [PortSwigger Web Security Academy Dashboard](https://portswigger.net/web-security/dashboard)
 
 ### **APIsec University**
 Learning how to secure APIs against modern threats
