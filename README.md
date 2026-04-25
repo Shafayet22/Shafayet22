@@ -4,18 +4,18 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
-Hello! I'm Shafayet, an aspiring Penetration Tester with a deep passion for breaking and securing digital systems. I believe in learning by doing, which is why I'm constantly on platforms like **TryHackMe** and **PortSwigger**, turning theory into practical skills.
+Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion for breaking and securing digital systems. I believe in learning by doing, which is why I'm constantly on platforms like **TryHackMe** , **PortSwigger**, **ApiSec University** turning theory into practical skills.
 
-- 🔭 I'm currently building an **ESP32-based Wireless Intrusion Detection System (WIDS)**
-- 🌱 I'm sharpening my skills in **Web Application Security**, **Linux**, and **WiFi Security**
-- 🎯 My goal is to work professionally as a Penetration Tester
-- 🤝 I'm open to collaborating on **cybersecurity** and **Python automation** projects
+-  I'm currently building an **ESP32-based Wireless Intrusion Detection System (WIDS)**
+-  I'm sharpening my skills in **Web Application Security**, **Linux**, and **WiFi Security**
+-  My goal is to work professionally as a Penetration Tester
+-  I'm open to collaborating on **cybersecurity** and **Python automation** projects
 
 ---
 
-## 🧰 Tools & Technologies
+##  Tools & Technologies
 
 ### **Languages I Use**
 
@@ -41,7 +41,7 @@ Hello! I'm Shafayet, an aspiring Penetration Tester with a deep passion for brea
 
 ---
 
-## 📊 My Learning Progress
+##  My Learning Progress
 
 ### **TryHackMe**
 Active Member | Currently Improving My Rank
@@ -59,7 +59,7 @@ Learning how to secure APIs against modern threats
 
 ---
 
-## 🚀 Featured Project: ESP32-WIDS
+##  Featured Project: ESP32-WIDS
 
 A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Module. It's a hands-on project to understand WiFi attacks from the packet level.
 
@@ -71,7 +71,7 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 ![Shafayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayet22&show_icons=true&theme=radical&hide_border=true)
 
@@ -79,10 +79,10 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME) <!-- Replace with your LinkedIn URL -->
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Shafayet22)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-shafayet-226263322/) <!-- Replace with your LinkedIn URL -->
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shafff)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafayet22)
 
 ---
