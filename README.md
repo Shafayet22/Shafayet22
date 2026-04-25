@@ -1,4 +1,4 @@
-# Hey! Since you are here, might as well take a look down below.
+# Hey there! 👀 Since you've made it this far — why not dig a little deeper?
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=Cybersecurity+Enthusiast;Python+%7C+Burp+%7C+Kali+%7C+Linux)](https://git.io/typing-svg)
 
