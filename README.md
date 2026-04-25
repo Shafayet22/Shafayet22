@@ -67,7 +67,7 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 - **Method:** 802.11 Promiscuous Mode & Anomaly-based Detection
 - **Features:** Real-time web dashboard, hardware alerts (LEDs/Buzzer)
 
-🔗 **[Check out the ESP32-WIDS repository](https://github.com/Shafayet22/esp32-wids)** (Update with your actual repo link)
+🔗 **[Check out the ESP32-WIDS repository](https://github.com/Shafayet22/WIDS-ESP32)** 
 
 ---
 
