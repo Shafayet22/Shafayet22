@@ -88,4 +88,4 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ---
 
-> *"The quieter you become, the more you are able to hear."* — Kali Linux Motto
+> *"The quieter you become, the more you are able to hear."* 
