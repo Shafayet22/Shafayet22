@@ -47,7 +47,6 @@ Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion fo
 ### **TryHackMe**
 Active Member | Currently Improving My Rank
 
-[![TryHackMe Badge](https://tryhackme-badge.s3.amazonaws.com/Shafayet22.png)](https://tryhackme.com/badges)
 
 ### **PortSwigger Web Security Academy**
 Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
