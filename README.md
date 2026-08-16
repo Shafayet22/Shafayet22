@@ -36,7 +36,7 @@ Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion fo
 
 ### **Learning Platforms & Certifications**
 
-[![TryHackMe shafff](https://img.shields.io/badge/TryHackMe-shafff-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shafff)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-View_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shafff)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
 ![APIsec University](https://img.shields.io/badge/APIsec_University-0A0A0A?style=for-the-badge)
 
