@@ -61,13 +61,30 @@ Completed **API Penetration Testing** (12-hour course) — [View here](https://w
 
 ##  Certifications & Achievements
 
-<div align="center">
+##  Certifications & Achievements
 
-[![AI Security](https://img.shields.io/badge/🧠_AI_Security-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-UUHUZ6UPPH)
-[![Jr. Pentester](https://img.shields.io/badge/🛡️_Jr._Pentester-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-QNIFFGFPOA)
-[![API Pentesting](https://img.shields.io/badge/🔐_API_Pentesting-APIsec-0A0A0A?style=for-the-badge)](https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile)
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://tryhackme.com/certificate/THM-UUHUZ6UPPH">
+        <img src="https://img.shields.io/badge/AI_Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /><br />
+        <sub><b>TryHackMe</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://tryhackme.com/certificate/THM-QNIFFGFPOA">
+        <img src="https://img.shields.io/badge/Jr._Penetration_Tester-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /><br />
+        <sub><b>TryHackMe</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile">
+        <img src="https://img.shields.io/badge/API_Penetration_Testing-0A0A0A?style=for-the-badge&logo=credly&logoColor=white" /><br />
+        <sub><b>APIsec University</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ##  Featured Project: ESP32-WIDS
 
