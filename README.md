@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=Security+Practitioner;Python+%7C+BurpSuite+%7C+Kali-Linux;Web+App+Security+%7C+Red+Teaming+%7C+Bug+Hunting)](https://git.io/typing-svg)
 
-<br/>
-
 ##  About Me
 
 Hi, I'm Shafayet. I break things to secure them — learning offensive security daily on **TryHackMe**, **PortSwigger Academy**, and **APIsec University**.
