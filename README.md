@@ -92,6 +92,8 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ##  GitHub Stats
 
+![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-View_My_Activity-181717?style=for-the-badge&logo=github&logoColor=white)
+
 ![Shafayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayet22&show_icons=true&theme=radical&hide_border=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayet22&theme=radical&hide_border=true)](https://git.io/streak-stats)
