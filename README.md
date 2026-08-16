@@ -8,7 +8,7 @@ Hi, I'm Shafayet. I break things to secure them — learning offensive security 
 
 -  I've successfully built an **ESP32-based Wireless Intrusion Detection System (WIDS)**
 -  I'm sharpening my skills in **Web Application Security**, **Linux** , **API Security**
--  My goal is to work professionally as a Penetration Tester
+-  My goal is to work professionally as a **Penetration Tester**
 -  I'm open to collaborating on **Bug Hunting** and **Web Application Security** projects
 
 ---
