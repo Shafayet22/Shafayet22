@@ -55,7 +55,6 @@ Completed **API Penetration Testing** (12-hour course) — [View here](https://w
 
 ##  Certifications & Achievements
 
-
 <table>
   <tr>
     <td align="center">
