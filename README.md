@@ -61,14 +61,14 @@ Completed **API Penetration Testing** (12-hour course) — [View here](https://w
 
 ##  Certifications & Achievements
 
-- 🧠 **AI Security** – TryHackMe → [🔗 Verify Certificate](https://tryhackme.com/certificate/THM-UUHUZ6UPPH)
-- 🛡️ **Jr. Penetration Tester** – TryHackMe → [🔗 Verify Certificate](https://tryhackme.com/certificate/THM-QNIFFGFPOA)
-- 🔐 **API Penetration Testing** (12 hours) – APIsec University → [🔗 View on Credly](https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile)
+<div align="center">
 
-<br/>
+[![AI Security](https://img.shields.io/badge/🧠_AI_Security-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-UUHUZ6UPPH)
+[![Jr. Pentester](https://img.shields.io/badge/🛡️_Jr._Pentester-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/certificate/THM-QNIFFGFPOA)
+[![API Pentesting](https://img.shields.io/badge/🔐_API_Pentesting-APIsec-0A0A0A?style=for-the-badge)](https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile)
 
-[![TryHackMe](https://img.shields.io/badge/View_My_TryHackMe_Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shafff)
-[![Credly](https://img.shields.io/badge/View_My_Credly_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/abu-shafayet)
+</div>
+
 ##  Featured Project: ESP32-WIDS
 
 A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Module. It's a hands-on project to understand WiFi attacks from the packet level.
