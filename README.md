@@ -45,7 +45,7 @@ Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion fo
 ##  My Learning Progress
 
 ### **TryHackMe**
-Active Member | Currently Improving My Rank
+Top 1% | Rank #14,072 | 341-Day Streak | 272 Rooms Completed
 
 
 ### **PortSwigger Web Security Academy**
