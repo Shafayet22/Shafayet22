@@ -55,23 +55,24 @@ Completed **API Penetration Testing** (12-hour course) — [View here](https://w
 
 ##  Certifications & Achievements
 
+
 <table>
   <tr>
     <td align="center">
       <a href="https://tryhackme.com/certificate/THM-UUHUZ6UPPH">
-        <img src="https://img.shields.io/badge/AI_Security-00FFCC?style=for-the-badge&logo=tryhackme&logoColor=black" /><br />
+        <img src="https://img.shields.io/badge/AI_Security-E63946?style=for-the-badge&logo=tryhackme&logoColor=white" /><br />
         <sub><b>TryHackMe</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://tryhackme.com/certificate/THM-QNIFFGFPOA">
-        <img src="https://img.shields.io/badge/Jr._Pentester-FF00FF?style=for-the-badge&logo=tryhackme&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/Jr._Penetration_Tester-F4A261?style=for-the-badge&logo=tryhackme&logoColor=white" /><br />
         <sub><b>TryHackMe</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile">
-        <img src="https://img.shields.io/badge/API_Pentesting-00BFFF?style=for-the-badge&logo=credly&logoColor=white" /><br />
+        <img src="https://img.shields.io/badge/API_Penetration_Testing-2A9D8F?style=for-the-badge&logo=credly&logoColor=white" /><br />
         <sub><b>APIsec University</b></sub>
       </a>
     </td>
