@@ -55,7 +55,7 @@ Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
 - **Next Goal:** Complete the full practitioner track
 
 ### **APIsec University**
-Learning how to secure APIs against modern threats
+Completed **API Penetration Testing** (12-hour course) — [View here](https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile)
 
 ---
 
