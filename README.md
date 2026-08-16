@@ -6,7 +6,7 @@
 
 ##  About Me
 
-Hello! I'm Shafayet, an aspiring Cybersecurity enthusiast with a deep passion for breaking and securing digital systems. I believe in learning by doing, which is why I'm constantly on platforms like **TryHackMe** , **PortSwigger**, **ApiSec University** turning theory into practical skills.
+Hi, I'm Shafayet. I break things to secure them — learning offensive security daily on **TryHackMe**, **PortSwigger Academy**, and **APIsec University**.
 
 -  I've successfully built an **ESP32-based Wireless Intrusion Detection System (WIDS)**
 -  I'm sharpening my skills in **Web Application Security**, **Linux** , **API Security**
