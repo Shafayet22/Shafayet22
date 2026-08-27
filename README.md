@@ -35,7 +35,7 @@ Hi, I'm Shafayet. I break things to secure them — learning offensive security 
 ##  My Learning Progress
 
 ### **TryHackMe**
-Top 1% | Rank #14,072 | 341-Day Streak | 272 Rooms Completed
+Top 1% | Rank #12,781 | 352-Day Streak | 288 Rooms Completed
 
 
 ### **PortSwigger Web Security Academy**
