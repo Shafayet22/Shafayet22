@@ -88,15 +88,35 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://img.shields.io/badge/📊_GitHub_Stats-View_My_Activity-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  
+<!-- Primary Stats - Uses caching to reduce API calls -->
+<img src="https://github-readme-stats.vercel.app/api?username=Shafayet22&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFCC&icon_color=00FFCC&border_radius=10&cache_seconds=1800" width="49%" />
 
-![Shafayet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shafayet22&show_icons=true&theme=radical&hide_border=true)
+<!-- Streak Stats - Hosted on a more reliable service -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shafayet22&theme=radical&hide_border=true&background=0D1117&stroke=00FFCC&ring=00FFCC&fire=00FFCC&currStreakLabel=00FFCC" width="49%" />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shafayet22&theme=radical&hide_border=true)](https://git.io/streak-stats)
+<br /><br />
+
+<!-- Language Stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shafayet22&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00FFCC&border_radius=10&cache_seconds=1800" width="49%" />
+
+<!-- Activity Graph - Most reliable stat component -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shafayet22&theme=react-dark&bg_color=0d1117&color=00FFCC&line=00FFCC&point=00FFCC&hide_border=true" width="49%" />
+
+</div>
 
 ---
+
+### 📈 Quick Stats
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Shafayet22&label=Profile%20Views&color=00FFCC&style=flat)](https://github.com/Shafayet22)
+[![GitHub Followers](https://img.shields.io/github/followers/Shafayet22?style=flat&color=00FFCC)](https://github.com/Shafayet22)
+[![GitHub Stars](https://img.shields.io/github/stars/Shafayet22?style=flat&color=00FFCC)](https://github.com/Shafayet22)
+
+> **Note:** Stats are cached and update every 30 minutes to ensure reliability.
 
 ##  Let's Connect
 
