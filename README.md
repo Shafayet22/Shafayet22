@@ -116,7 +116,6 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 [![GitHub Followers](https://img.shields.io/github/followers/Shafayet22?style=flat&color=00FFCC)](https://github.com/Shafayet22)
 [![GitHub Stars](https://img.shields.io/github/stars/Shafayet22?style=flat&color=00FFCC)](https://github.com/Shafayet22)
 
-> **Note:** Stats are cached and update every 30 minutes to ensure reliability.
 
 ##  Let's Connect
 
