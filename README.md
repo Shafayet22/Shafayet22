@@ -88,7 +88,7 @@ A **Wireless Intrusion Detection System** built from scratch on an ESP32 Dev Mod
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   
