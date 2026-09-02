@@ -24,7 +24,7 @@ Hi, I'm Shafayet. I break things to secure them — learning offensive security 
 ![Nmap](https://img.shields.io/badge/Nmap-0E2B3D?style=for-the-badge&logo=nmap&logoColor=white)
 ![CYBERCHEF](https://img.shields.io/badge/CyberChef-2C2C2C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=white)
 
-### **Learning Platforms & Certifications**
+### **Learning Platforms**
 
 [![TryHackMe shafff](https://img.shields.io/badge/TryHackMe-shafff-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/shafff)
 ![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
@@ -48,8 +48,6 @@ Practicing and mastering web vulnerabilities (SQLi, XSS, SSRF, etc.)
 Completed **API Penetration Testing** (12-hour course) — [View here](https://www.credly.com/badges/4c2a54ad-3c1b-4fe7-9551-d224c955fab1/linked_in_profile)
 
 ---
-
-##  Certifications & Achievements
 
 ##  Certifications & Achievements
 
