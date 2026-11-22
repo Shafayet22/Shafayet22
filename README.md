@@ -6,6 +6,7 @@
 
 Hi, I'm Shafayet. I break things to secure them — learning offensive security daily on **TryHackMe**, **PortSwigger Academy**, and **APIsec University**.
 
+-  Active **Security Researcher** on **HackerOne** ![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)
 -  I've successfully built an **ESP32-based Wireless Intrusion Detection System (WIDS)**
 -  I'm sharpening my skills in **Web Application Security**, **Linux** , **API Security**
 -  My goal is to work professionally as a **Penetration Tester**
@@ -35,7 +36,7 @@ Hi, I'm Shafayet. I break things to secure them — learning offensive security 
 ##  My Learning Progress
 
 ### **TryHackMe**
-Top 1% | Rank #10,415 | 380-Day Streak | 320 Rooms Completed
+Top 1% | 439-Day Streak | 330 Rooms Completed
 
 
 ### **PortSwigger Web Security Academy**
